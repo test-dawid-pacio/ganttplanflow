@@ -2,7 +2,7 @@
   "name": "GanttPlanFlow v1.0 — Dash Page Labs",
   "short_name": "GanttPlanFlow",
   "description": "Zarządzanie projektami z wykresem Gantta",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#0f172a",
